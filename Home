@@ -1,0 +1,24 @@
+index.html<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Name | Executive Leader</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="navbar">
+  <a href="index.html">Home</a>
+  <a href="story.html">My Story</a>    
+  <a href="leadership.html">Leadership Style</a>
+  <a href="accomplishments.html">Accomplishments</a>
+  <a href="articles.html">Articles</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<h1>Your Name</h1>
+<h2>Enterprise Leader | Strategy | Transformation</h2>
+
+<p>Welcome to my professional website where I share my leadership journey, accomplishments, and insights on strategy, execution, and transformation.</p>
+
+</body>
+</html>
